@@ -18,7 +18,7 @@ namespace Proyecto_hotel {
                 Console.WriteLine("1.Reservar habitación");
                 Console.WriteLine("0.Salir");
                 Console.WriteLine("HoliSarkis");
-                Console.WriteLine("______________");
+                Console.WriteLine("-________________-");
                 string opcion = Console.ReadLine();
                 switch (opcion)
                 {
