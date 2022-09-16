@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\camil\\source\\repos\\Proyecto_hotel\\Proyecto_hotel\\Proyecto_hotel.csproj": {}
+    "C:\\Users\\Marco\\source\\repos\\Proyecto_hotel\\Proyecto_hotel\\Proyecto_hotel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\camil\\source\\repos\\Proyecto_hotel\\Proyecto_hotel\\Proyecto_hotel.csproj": {
+    "C:\\Users\\Marco\\source\\repos\\Proyecto_hotel\\Proyecto_hotel\\Proyecto_hotel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\camil\\source\\repos\\Proyecto_hotel\\Proyecto_hotel\\Proyecto_hotel.csproj",
+        "projectUniqueName": "C:\\Users\\Marco\\source\\repos\\Proyecto_hotel\\Proyecto_hotel\\Proyecto_hotel.csproj",
         "projectName": "Proyecto_hotel",
-        "projectPath": "C:\\Users\\camil\\source\\repos\\Proyecto_hotel\\Proyecto_hotel\\Proyecto_hotel.csproj",
-        "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\camil\\source\\repos\\Proyecto_hotel\\Proyecto_hotel\\obj\\",
+        "projectPath": "C:\\Users\\Marco\\source\\repos\\Proyecto_hotel\\Proyecto_hotel\\Proyecto_hotel.csproj",
+        "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marco\\Source\\Repos\\Proyecto_hotel\\Proyecto_hotel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
