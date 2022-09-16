@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\camil\\.nuget\\packages\\": {}
+    "C:\\Users\\Sarkis\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camil\\source\\repos\\Proyecto_hotel\\Proyecto_hotel\\Proyecto_hotel.csproj",
+      "projectUniqueName": "C:\\Users\\Sarkis\\Documents\\GitHub\\Proyecto_hotel\\Proyecto_hotel\\Proyecto_hotel.csproj",
       "projectName": "Proyecto_hotel",
-      "projectPath": "C:\\Users\\camil\\source\\repos\\Proyecto_hotel\\Proyecto_hotel\\Proyecto_hotel.csproj",
-      "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camil\\source\\repos\\Proyecto_hotel\\Proyecto_hotel\\obj\\",
+      "projectPath": "C:\\Users\\Sarkis\\Documents\\GitHub\\Proyecto_hotel\\Proyecto_hotel\\Proyecto_hotel.csproj",
+      "packagesPath": "C:\\Users\\Sarkis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sarkis\\Documents\\GitHub\\Proyecto_hotel\\Proyecto_hotel\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sarkis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
