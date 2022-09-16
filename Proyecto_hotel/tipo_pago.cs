@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Proyecto_hotel
 {
-    internal class Resercacion
+    internal class tipo_pago
     {
+     private string descripcion { get; set; }
     }
 }
